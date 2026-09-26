@@ -1,4 +1,4 @@
-# Modular Python Calculator
+# Mod4 Python Calculator
 
 ## Description
 
